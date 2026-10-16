@@ -31,7 +31,7 @@ JELLYFIN_TARGET ?= jf12
 TFM = $(shell dotnet msbuild Jellyfin.Plugin.Streamyfin -getProperty:TargetFramework -p:JellyfinTarget=$(JELLYFIN_TARGET) -nologo)
 export JELLYFIN_ABI = $(shell dotnet msbuild Jellyfin.Plugin.Streamyfin -getProperty:JellyfinAbi -p:JellyfinTarget=$(JELLYFIN_TARGET) -nologo)
 
-export GITHUB_REPO := Gauvino/jellyfin-plugin-streamyfin
+export GITHUB_REPO := Gauvino/streamyfin-release-rehearsal
 export FILE := streamyfin-$(VERSION)-$(JELLYFIN_TARGET).zip
 
 # The tag the release lives under, which is not always the version. An unstable tag
