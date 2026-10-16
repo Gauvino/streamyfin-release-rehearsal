@@ -14,7 +14,7 @@
                 "targetAbi": "12.0.0.0",
                 "sourceUrl": "https://github.com/Gauvino/streamyfin-release-rehearsal/releases/download/0.70.0.0/streamyfin-0.70.0.0-jf12.zip",
                 "checksum": "cee4d60de0e6f6d4edac7d15b20a5f94",
-                "timestamp": "2026-10-16T07:48:38Z"
+                "timestamp": "2026-10-16T07:49:30Z"
             },
             {
                 "version": "0.70.0.0",
@@ -22,7 +22,7 @@
                 "targetAbi": "10.11.9.0",
                 "sourceUrl": "https://github.com/Gauvino/streamyfin-release-rehearsal/releases/download/0.70.0.0/streamyfin-0.70.0.0-jf11.zip",
                 "checksum": "935e7df9eafde7d6fb8ce23e3cacb732",
-                "timestamp": "2026-10-16T07:48:37Z"
+                "timestamp": "2026-10-16T07:49:29Z"
             },
             {
                 "version": "0.68.1.0",
